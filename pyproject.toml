@@ -1,0 +1,9 @@
+[project]
+name = "maze"
+version = "0.1.0"
+description = "A maze searching app with dynamically loaded search patterns."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+]
